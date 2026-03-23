@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SUqtVou9ZVQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel.morales\\Downloads\\DAV_MicroServicios_DanielMorales\\Gateway\\Gateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.morales\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\daniel.morales\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.morales\\.nuget\\packages\\yarp.reverseproxy\\2.3.0\\yarp.reverseproxy.2.3.0.nupkg.sha512",
+    "C:\\Users\\daniel.morales\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\daniel.morales\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\daniel.morales\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\daniel.morales\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
